@@ -1,0 +1,20 @@
+{
+  "name": "my-parse-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "parse-dashboard": "^5.4.0",
+    "parse-server": "^7.3.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
